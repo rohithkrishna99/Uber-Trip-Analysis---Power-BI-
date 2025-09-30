@@ -1,4 +1,4 @@
-# 🚖 Uber Trip Analysis – Power BI Project  
+# 🚖 Uber Trip Analysis|Power BI Project  
 
 ## 🔹 Project Overview  
 
